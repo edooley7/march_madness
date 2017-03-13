@@ -1,0 +1,69 @@
+seed,conference,seed_conference,team,twitter_handle,num_favorites,num_followers,num_friends,num_statuses,retweet_avg
+1,east,1east,villanova,novambb,3698,127783,432,10299,51.97
+2,east,2east,duke,duke_mbb,194,101932,320,15065,140.43
+3,east,3east,baylor,baylormbb,1116,40583,38,19244,45.64
+4,east,4east,florida,gatorsmbk,2206,60736,690,19946,47.37
+5,east,5east,virginia,uvamenshoops,376,88865,488,9710,29.56
+6,east,6east,smu,smubasketball,2053,10760,407,11818,35.75
+7,east,7east,south carolina,gamecockmbb,1554,28673,185,11101,142.93
+8,east,8east,wisconsin,badgermbb,3602,233563,436,29364,61.64
+9,east,9east,virginia tech,vt_mbball,2002,20125,119,9302,44.5
+10,east,10east,marquette,marquettembb,398,17375,602,8889,16.76
+11,east,11east,providence,pcathletics,2616,26659,1484,17422,13.08
+11,east,11east,usc,usc_hoops,1436,12183,153,5774,19.79
+12,east,12east,unc wilmington,uncwmenshoops,658,6905,4,11571,24.27
+13,east,13east,east tennessee state,etsu_mbb,725,3489,208,4727,9.04
+14,east,14east,new mexico state,nmstateaggies,845,11970,133,23823,11.98
+15,east,15east,troy,troymenshoops,895,4157,160,5518,22.56
+16,east,16east,mt st marys,mounthoops,834,3437,307,1240,33.38
+16,east,16east,new orleans,privateers_mbb,158,820,77,1840,7.49
+1,midwest,1midwest,kansas,kuhoops,11244,491695,157,12150,190.59
+2,midwest,2midwest,louisville,cardinalmbb,400,1186,63,892,20.49
+3,midwest,3midwest,oregon,oregonmbb,7666,72664,624,20498,24.93
+4,midwest,4midwest,purdue,purduebball,531,11495,237,5966,68.48
+5,midwest,5midwest,iowa state,iowahoops,2051,115613,81,14514,34.92
+6,midwest,6midwest,creighton,bluejaymbb,887,54373,296,7655,36.13
+7,midwest,7midwest,michigan,umichbball,2172,240253,413,21531,276.61
+8,midwest,8midwest,miami florida,caneshoops,3462,42655,350,19528,60.64
+9,midwest,9midwest,michigan state,msu_basketball,59,259984,524,13187,54.22
+10,midwest,10midwest,oklahoma state,osumbb,935,34072,190,12621,71.93
+11,midwest,11midwest,rhode island,rhodymbb,1043,6934,69,6521,34.81
+12,midwest,12midwest,nevada,nevadahoops,1977,16763,372,6216,44.14
+13,midwest,13midwest,vermont,uvmmbb,454,5010,210,7534,14.87
+14,midwest,14midwest,iona,ionagaelsmbb,252,3570,169,2220,20.98
+15,midwest,15midwest,jacksonville state,jsu_mbb,138,1086,203,1815,15.43
+16,midwest,16midwest,nc central,nccu_mbb,338,3080,232,3549,22.74
+16,midwest,16midwest,uc davis,ucdavismbb,416,1478,164,1888,18.16
+1,south,1south,north carolina,unc_basketball,47,562538,29,20064,255.23
+2,south,2south,kentucky,kentuckymbb,51,530475,568,20486,179.96
+3,south,3south,ucla,uclambb,64,49572,125,9831,65.44
+4,south,4south,butler,butlermbb,4628,43027,103,15756,32.64
+5,south,5south,minnesota,gophermbb,299,32845,365,11983,46.35
+6,south,6south,cincinnati,gobearcatsmbb,162,8771,315,2052,32.33
+7,south,7south,dayton,daytonmbb,5783,42099,500,10852,39.59
+8,south,8south,arkansas,razorbackmbb,525,108495,352,11499,62.66
+9,south,9south,seton hall,setonhallmbb,2772,9246,191,10484,24.6
+10,south,10south,wichita state,goshockers,10614,127756,660,25883,61.26
+11,south,11south,k-state,kstatembb,202,7576,238,2737,30.17
+11,south,11south,wake forest,tiedyenation,46,15874,121,9782,20.96
+12,south,12south,middle tennessee,mt_mbb,3160,8611,2568,15047,35.79
+13,south,13south,winthrop,wueagles,244,6635,251,13420,46.14
+14,south,14south,kent state,kentstmbb,398,3995,351,8716,30.33
+15,south,15south,northern kentucky,nkunorsembb,33,2469,206,575,45.1
+16,south,16south,texas southern,tsumbb,32,347,27,211,65.65
+1,west,1west,gonzaga,zagmbb,460,86529,529,5153,65.87
+2,west,2west,arizona,aplayersprogram,5,135857,350,14330,122.72
+3,west,3west,florida state,fsuhoops,959,46224,370,18375,58.2
+4,west,4west,west virginia,wvuhoops,80,208856,53,8173,73.52
+5,west,5west,notre dame,ndmbb,1476,428402,160,13489,104.17
+6,west,6west,maryland,terrapinhoops,122,130923,246,8243,81.49
+7,west,7west,saint marys,smcm_mbb,504,753,62,199,3.79
+8,west,8west,northwestern,numensbball,1494,12212,450,9219,40.65
+9,west,9west,vanderbilt,vandymbb,134,16153,112,13305,25.34
+10,west,10west,vcu,vcu_hoops,2366,9403,174,3745,20.36
+11,west,11west,xavier,xaviermbb,4000,21877,489,4079,104.58
+12,west,12west,princeton,princeton_hoops,29,5445,3547,2371,12.92
+13,west,13west,bucknell,bucknell_mbb,44,3156,191,1422,9.8
+14,west,14west,florida gulf coast,fgcu_mbb,142,11765,247,12395,106.95
+15,west,15west,north dakota,undmbasketball,1382,3660,166,8973,60.33
+16,west,16west,south dakota state,gojacksmbb,522,7592,113,6314,24.95
