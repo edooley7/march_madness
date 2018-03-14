@@ -1,0 +1,68 @@
+seed,conference,seed_conference,team,twitter_handle
+1,east,1east,villanova,novambb
+2,east,2east,purdue,purduebball
+3,east,3east,texas tech,ttuhoopsfans
+4,east,4east,witchita state,Goshockersmbb
+5,east,5east,west virginia,wvuhoops
+6,east,6east,florida,gatorsmbk
+7,east,7east,arkansas,razorbackmbb
+8,east,8east,virginia tech,vt_mbball
+9,east,9east,alabama,alabamambb
+10,east,10east,butler,butlermbb
+11,east,11east,Stbon,bonniesmbb
+11,east,11east,ucla,uclambb
+12,east,12east,murray state,racershoops
+13,east,13east,marshall,herdmbb
+14,east,14east,sf austin,sfa_mbb
+15,east,15east,cs fullerton,fullertonshoops
+16,east,16east,liu,liubasketball
+16,east,16east,rad,radfordmbb
+1,midwest,1midwest,kansas,kuhoops
+2,midwest,2midwest,duke,duke_mbb
+3,midwest,3midwest,michigan state,msu_basketball
+4,midwest,4midwest,auburn,auburnmbb
+5,midwest,5midwest,clemson,clemsonmbb
+6,midwest,6midwest,tcu,tcubasketball
+7,midwest,7midwest,rhode island,rhodymbb
+8,midwest,8midwest,seton hall,setonhallmbb
+9,midwest,9midwest,nc state,packmensbball
+10,midwest,10midwest,Oklahoma,ou_mbball
+11,midwest,11midwest,asu,sundevilhoops
+11,midwest,11midwest,syr,cuse_mbb
+12,midwest,12midwest,new mexico state,nmstateaggies
+13,midwest,13midwest,charleston,cofcbasketball
+14,midwest,14midwest,bucknell,bucknell_mbb
+15,midwest,15midwest,iona,ionagaelsmbb
+16,midwest,16midwest,penn,pennbasketball
+1,south,1south,virginia,uvamenshoops
+2,south,2south,Cincinnati,gobearcatsmbb
+3,south,3south,Tennessee,vol_hoops
+4,south,4south,arizona,aplayersprogram
+5,south,5south,kentucky,kentuckymbb
+6,south,6south,miami,caneshoops
+7,south,7south,nevada,nevadahoops
+8,south,8south,Creighton,bluejaymbb
+9,south,9south,Kansas state,kstatembb
+10,south,10south,texas,texasmbb
+11,south,11south,Loyola,ramblersmbb
+12,south,12south,davidson,davidsonmbb
+13,south,13south,buffalo,ubmenshoops
+14,south,14south,wright state,wsu_mbb
+15,south,15south,Georgia state,georgiastatembb
+16,south,16south,umbc,umbc_mbb
+1,west,1west,Xavier,xaviermbb
+2,west,2west,north carolina,unc_basketball
+3,west,3west,michigan,umichbball
+4,west,4west,Gonzaga,zagmbb
+5,west,5west,Ohio state,ohiostatehoops
+6,west,6west,Houston,uhcougarmbk
+7,west,7west,texas am,aggiembk
+8,west,8west,Missouri,mizzouhoops
+9,west,9west,florida state,fsuhoops
+10,west,10west,Providence,pcathletics
+11,west,11west,san diego state,aztec_mbb
+12,west,12west,South Dakota state,gojacksmbb
+13,west,13west,unc greensboro,uncgbasketball
+14,west,14west,montana,montanagrizbb
+15,west,15west,lipscomb,lipscombmbb
+16,west,16west,nccu,mcuu_mbb
