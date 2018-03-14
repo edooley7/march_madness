@@ -14,11 +14,11 @@ Pull requests and other collaboration more than welcome!
 2. Scrape Twitter handles of men's basketball team.
 	- Generally the top Google search of "<team name> ncaa men's basketball Twitter" is the handle.
 	- Might want to verify that the top account is the one tweeting about March Madness.  Sometimes there are multiple accounts at a school.  Maybe check for recent #MarchMadness tweet?
-3. Modify get_tweet_data.py to recheck handles if it was initially skipped due to rate limits.
-4. Use TextBlob (or other similar package) to measure sentiment of recent tweets and add to model.
-5. Scrape prior years results.
+3. Incorporate average tweet sentiment into the model.
+4. Scrape prior years results.
 	- Currently pulling by hand from Wikipedia
 	- Currently using round reached
 	- Consider adding scores as result
-6. Explore adding new features:
+5. Explore adding new features:
 	- Number of times school has reached the tournament
+6. See if adding multiple years of tweet data is feasible or helpful.
