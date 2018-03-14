@@ -2,11 +2,11 @@ seed,conference,seed_conference,team,twitter_handle
 1,east,1east,villanova,novambb
 2,east,2east,purdue,purduebball
 3,east,3east,texas tech,ttuhoopsfans
-4,east,4east,witchita state,Goshockersmbb
+4,east,4east,witchita state,goshockersmbb
 5,east,5east,west virginia,wvuhoops
 6,east,6east,florida,gatorsmbk
 7,east,7east,arkansas,razorbackmbb
-8,east,8east,virginia tech,vt_mbball
+8,east,8east,virginia tech,hokiesmbb
 9,east,9east,alabama,alabamambb
 10,east,10east,butler,butlermbb
 11,east,11east,Stbon,bonniesmbb
@@ -14,11 +14,11 @@ seed,conference,seed_conference,team,twitter_handle
 12,east,12east,murray state,racershoops
 13,east,13east,marshall,herdmbb
 14,east,14east,sf austin,sfa_mbb
-15,east,15east,cs fullerton,fullertonshoops
+15,east,15east,cs fullerton,fullertonhoops
 16,east,16east,liu,liubasketball
 16,east,16east,rad,radfordmbb
 1,midwest,1midwest,kansas,kuhoops
-2,midwest,2midwest,duke,duke_mbb
+2,midwest,2midwest,duke,dukembb
 3,midwest,3midwest,michigan state,msu_basketball
 4,midwest,4midwest,auburn,auburnmbb
 5,midwest,5midwest,clemson,clemsonmbb
@@ -65,4 +65,4 @@ seed,conference,seed_conference,team,twitter_handle
 13,west,13west,unc greensboro,uncgbasketball
 14,west,14west,montana,montanagrizbb
 15,west,15west,lipscomb,lipscombmbb
-16,west,16west,nccu,mcuu_mbb
+16,west,16west,nccu,nccu_mbb
