@@ -1,0 +1,68 @@
+seed,conference,seed_conference,team,twitter_handle,round_reached
+9,east,9east,alabama,alabamambb,32
+4,south,4south,arizona,aplayersprogram,64
+7,east,7east,arkansas,razorbackmbb,64
+11,midwest,11midwest,asu,sundevilhoops,128
+4,midwest,4midwest,auburn,auburnmbb,32
+14,midwest,14midwest,bucknell,bucknell_mbb,64
+13,south,13south,buffalo,ubmenshoops,32
+10,east,10east,butler,butlermbb,32
+13,midwest,13midwest,charleston,cofcbasketball,64
+2,south,2south,Cincinnati,gobearcatsmbb,32
+5,midwest,5midwest,clemson,clemsonmbb,16
+8,south,8south,Creighton,bluejaymbb,64
+15,east,15east,cs fullerton,fullertonhoops,64
+12,south,12south,davidson,davidsonmbb,64
+2,midwest,2midwest,duke,dukembb,8
+6,east,6east,florida,gatorsmbk,32
+9,west,9west,florida state,fsuhoops,8
+15,south,15south,Georgia state,georgiastatembb,64
+4,west,4west,Gonzaga,zagmbb,16
+6,west,6west,Houston,uhcougarmbk,32
+15,midwest,15midwest,iona,ionagaelsmbb,64
+1,midwest,1midwest,kansas,kuhoops,4
+9,south,9south,Kansas state,kstatembb,8
+5,south,5south,kentucky,kentuckymbb,16
+15,west,15west,lipscomb,lipscombmbb,64
+16,east,16east,liu,liubasketball,128
+11,south,11south,Loyola,ramblersmbb,4
+13,east,13east,marshall,herdmbb,32
+6,south,6south,miami,caneshoops,64
+3,west,3west,michigan,umichbball,2
+3,midwest,3midwest,michigan state,msu_basketball,32
+8,west,8west,Missouri,mizzouhoops,64
+14,west,14west,montana,montanagrizbb,64
+12,east,12east,murray state,racershoops,64
+9,midwest,9midwest,nc state,packmensbball,64
+16,west,16west,nccu,nccu_mbb,64
+7,south,7south,nevada,nevadahoops,16
+12,midwest,12midwest,new mexico state,nmstateaggies,64
+2,west,2west,north carolina,unc_basketball,32
+5,west,5west,Ohio state,ohiostatehoops,32
+10,midwest,10midwest,Oklahoma,ou_mbball,64
+16,midwest,16midwest,penn,pennbasketball,64
+10,west,10west,Providence,pcathletics,64
+2,east,2east,purdue,purduebball,16
+16,east,16east,rad,radfordmbb,64
+7,midwest,7midwest,rhode island,rhodymbb,32
+11,west,11west,san diego state,aztec_mbb,64
+8,midwest,8midwest,seton hall,setonhallmbb,32
+14,east,14east,sf austin,sfa_mbb,64
+12,west,12west,South Dakota state,gojacksmbb,64
+11,east,11east,Stbon,bonniesmbb,64
+11,midwest,11midwest,syr,cuse_mbb,16
+6,midwest,6midwest,tcu,tcubasketball,64
+3,south,3south,Tennessee,vol_hoops,32
+10,south,10south,texas,texasmbb,64
+7,west,7west,texas am,aggiembk,16
+3,east,3east,texas tech,ttuhoopsfans,8
+11,east,11east,ucla,uclambb,128
+16,south,16south,umbc,umbc_mbb,32
+13,west,13west,unc greensboro,uncgbasketball,64
+1,east,1east,villanova,novambb,1
+1,south,1south,virginia,uvamenshoops,64
+8,east,8east,virginia tech,hokiesmbb,64
+5,east,5east,west virginia,wvuhoops,16
+4,east,4east,witchita state,goshockersmbb,64
+14,south,14south,wright state,wsu_mbb,64
+1,west,1west,Xavier,xaviermbb,32
